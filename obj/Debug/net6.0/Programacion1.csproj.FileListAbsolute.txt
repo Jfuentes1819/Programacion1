@@ -1,0 +1,15 @@
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\bin\Debug\net6.0\Programacion1.exe
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\bin\Debug\net6.0\Programacion1.deps.json
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\bin\Debug\net6.0\Programacion1.runtimeconfig.json
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\bin\Debug\net6.0\Programacion1.dll
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\bin\Debug\net6.0\Programacion1.pdb
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.csproj.AssemblyReference.cache
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.AssemblyInfoInputs.cache
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.AssemblyInfo.cs
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.csproj.CoreCompileInputs.cache
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.dll
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\refint\Programacion1.dll
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.pdb
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\Programacion1.genruntimeconfig.cache
+C:\Dev\Projectos Programacion\Programacion1\Programacion1\obj\Debug\net6.0\ref\Programacion1.dll
