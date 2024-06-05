@@ -5,65 +5,37 @@ Console.Write("Hola");
 
 Console.ReadKey();
 
-decimal salario;
-double exponente;
-string apellido;
-char sexo;
-bool activo;
-bool inactivo;
+Console.WriteLine("Mensaje 1 \n ");
 
-// Nombre de una persona
+Console.WriteLine(@"Mensaje1
+Mensaje 2.1
+Mensaje         3
+Mensaje         3");
 
-string nombre;
+int soyUnValorEntero = 1000;
+double soyUnValorDeDoblePrecision = 1000.00;
+float soyUnValorDePrecisionFlotante = 1000.00f;
+decimal soyUnValorDePrecicionGeneral = 1000.00m;
+char soyUnValorDeCaracter = 'M';
+string soyUnValorDeTipoCadena = "0";
+bool soyUnaDecision = false;
 
-// Edad de una persona
 
-int edad;
-// Altura de una persona en metros (con decimales)
+// () ^ */% +-
 
-decimal alturaMetros;
+// como convertir de forma explicita
 
-// Número de matrícula de un estudiante (sin decimales)
+string a = "2";
+double b = Convert.ToDouble(a);
+double c = double.Parse(a);
 
-int matricula;
+Console.WriteLine("Hola este es un valor: " + soyUnValorEntero);
 
-// Promedio de calificaciones (con decimales)
 
-float promedio;
 
-// Estado civil(soltero, casado, etc.)
 
-string estadoCivil;
 
-// Género(M / F)
 
-char genero;
+Console.ReadKey();
 
-// Estado de inscripción (verdadero o falso)
-
-bool inscripcion;
-
-// Temperatura en grados Celsius
-
-int temperaturaCelcius;
-
-// Número de hijos
-
-int hijos;
-
-// Fecha de nacimiento
-
-int nacimiento;
-
-// Costo de un producto en una tienda
-
-float costo;
-
-// Respuesta a una pregunta (sí/no)
-
-    char respuesta;
-
-// Código postal 
-
-    int codigoPostal;
 
